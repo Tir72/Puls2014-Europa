@@ -283,7 +283,7 @@ aside{
 	}
 }*/
 
-@media screen and (min-width:800px){
+@media screen and (min-width:768px){
 	#contenido{
 		overflow: hidden;
 	}
@@ -296,7 +296,7 @@ aside{
 	}
 }
 
-@media screen and (min-width:1000px){
+@media screen and (min-width:1024px){
 	aside{
 		display: block;
 		float: right;
